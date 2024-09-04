@@ -48,7 +48,8 @@
 
 ## Problem 1 ##
 #Please write a script that: 
-# - Asks for the user's name and then prints it twice, on two consecutive lines.
+# - Asks for the user's name and then prints it twice, 
+# on two consecutive lines.
 
 
 
